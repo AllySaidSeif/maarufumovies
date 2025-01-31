@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/maarufumovies/static/css/main.46b2d7a1.css",
+    "main.js": "/maarufumovies/static/js/main.8d1013e3.js",
+    "static/media/boxicons.svg": "/maarufumovies/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/maarufumovies/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/maarufumovies/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/maarufumovies/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/maarufumovies/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/maarufumovies/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/logo.png": "/maarufumovies/static/media/logo.2e3224d8eb3cd508794f.png",
+    "index.html": "/maarufumovies/index.html",
+    "main.46b2d7a1.css.map": "/maarufumovies/static/css/main.46b2d7a1.css.map",
+    "main.8d1013e3.js.map": "/maarufumovies/static/js/main.8d1013e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b2d7a1.css",
+    "static/js/main.8d1013e3.js"
+  ]
+}
